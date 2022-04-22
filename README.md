@@ -1,4 +1,4 @@
-# hak
+
 import (os
 os sistim.("clear")
 print (1...)
